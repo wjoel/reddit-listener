@@ -1,4 +1,4 @@
-(defproject com.wjoel/reddit-listener "0.0.1-SNAPSHOT"
+(defproject com.wjoel/reddit-listener "0.0.1"
   :description "reddit streams"
   :url "https://github.com/wjoel/reddit-listener"
   :license {:name "BSD 3-clause"
